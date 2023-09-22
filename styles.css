@@ -1,2 +1,9 @@
+ul{
+	padding:0px;
+	display:flex;
+}
 
-/* Your CSS Code here. */
+li{
+	list-style:none;
+	margin-left:5px;
+}
